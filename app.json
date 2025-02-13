@@ -25,7 +25,7 @@
         {
           "image": "./assets/amazon-logo-original.png",
           "imageWidth": 200,
-          "resizeMode": "contain",
+          "resizeMode": "cover",
           "backgroundColor": "#ffffff"
         }
       ]
